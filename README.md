@@ -15,5 +15,5 @@ How to contribute
 1. Fork it
 2. Contribute
 3. Add yourself to the authors file
-4. Send an Pull Request
+4. Send a Pull Request
 5. Done!
