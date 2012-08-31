@@ -3,7 +3,7 @@ Getting started
 
 Git
 ---
-Install git if it isn't installed on your system.
+Install git, if it isn't installed on your system yet.
 
 1. Debian (based distributions)
 	```
@@ -19,6 +19,7 @@ Install git if it isn't installed on your system.
 	```
 	brew install git
 	```
+
 
 If you've never worked with git before, it's recommended to read this [crash course](http://git-scm.com/course/svn.html).
 
