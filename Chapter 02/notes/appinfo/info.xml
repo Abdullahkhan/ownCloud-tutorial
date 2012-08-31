@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<info>
+	<id>notes</id>
+	<name>Notes</name>
+	<licence>AGPL</licence>
+	<author>Your Name</author>
+	<require>4</require>
+	<shipped>true</shipped>
+	<description>Simple notes app</description>
+</info>

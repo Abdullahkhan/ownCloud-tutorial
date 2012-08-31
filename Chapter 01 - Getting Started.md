@@ -10,7 +10,7 @@ Install git if it isn't installed on your system.
 	sudo apt-get install git
 	```
 	
-2. openSuSE
+2. openSuSE (based distributions)
 	```
 	sudo zypper install git-core
 	```
@@ -20,15 +20,19 @@ Install git if it isn't installed on your system.
 	brew install git
 	```
 
-If you've never worked with git before, it's recommended to read the [crash course](http://git-scm.com/course/svn.html)	
+If you've never worked with git before, it's recommended to read this [crash course](http://git-scm.com/course/svn.html).
 
 Source Code
 -----------
 
 1. Clone ownCloud's git repository
+
 	```
-	git clone git://gitorious.org/owncloud/owncloud.git
-	```
+	git clone git://github.com/owncloud/core.git ownCloud &&
+	git clone git://github.com/owncloud/3rdparty.git &&
+	git clone git://github.com/owncloud/apps.git
+	```	
+
 2. Follow the [installation instructions](http://owncloud.org/support/install/)
 
 Need an idea for an app?
