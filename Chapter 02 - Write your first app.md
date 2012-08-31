@@ -105,6 +105,6 @@ Let's get started
 	```
 	__templates/notes.php__
 	
-	```
+	```html
 	<p>You done it! This is your first ownCloud app :)</p>
 	```
