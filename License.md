@@ -1,4 +1,4 @@
-The ownCloud tutorial is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/).
+The ownCloud tutorial is licensed under the terms of the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/).
 --------------------------------------------------------------------------------------------------------
 License
 
