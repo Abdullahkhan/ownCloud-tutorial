@@ -26,7 +26,7 @@ If you've never worked with git before, it's recommended to read this [crash cou
 Source Code
 -----------
 
-1. Clone ownCloud's git repository
+1. Clone ownCloud's git repositories
 
 	```
 	git clone git://github.com/owncloud/core.git ownCloud &&
